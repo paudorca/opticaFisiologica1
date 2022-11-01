@@ -1,0 +1,7 @@
+.align {
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}

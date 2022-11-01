@@ -1,0 +1,28 @@
+nav {
+    display: flex;
+    justify-content: center;
+    padding:10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    font-weight: 100;
+}
+
+body {
+    margin-top: 50px;
+    background-color:white; 
+}
+
+div {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#square-input {
+    width: 30%;
+}
+
+#distance-input {
+    width: 30%;
+}
